@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "01-bash_script",
+			"path": "01-bash_script"
+		},
+		{
+			"name": "02-ansible",
+			"path": "02-ansible"
+		}
+	],
+	"settings": {}
+}
